@@ -40,6 +40,6 @@ Dependencies: numpy pandas scikit-learn lightgbm xgboost catboost openpyxl
 external features, not more modelling on the current data.
 
 ## Author
-Aryan Kumar Chaudhary 
-Aryan Baheti
-Akshat Gupta
+- Aryan Kumar Chaudhary 
+- Aryan Baheti
+- Akshat Gupta
