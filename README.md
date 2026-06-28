@@ -38,3 +38,8 @@ Dependencies: numpy pandas scikit-learn lightgbm xgboost catboost openpyxl
 (classifier AUC ≈ 0.89), but **no feature predicts the income magnitude within the high-earner group**
 (the data has no crop-type / acreage / yield / price columns). Going meaningfully lower would need such
 external features, not more modelling on the current data.
+
+## Author
+Aryan Kumar Chaudhary 
+Aryan Baheti
+Akshat Gupta
